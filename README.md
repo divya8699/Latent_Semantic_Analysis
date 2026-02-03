@@ -125,8 +125,8 @@ Key findings include:
 ```bash
 pip install numpy pandas nltk scikit-learn gensim matplotlib seaborn
 
-
-
+```
+---
 Then open and run the notebooks in order:
 
 LSI_Matrix_mavericks.ipynb
